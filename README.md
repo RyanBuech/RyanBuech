@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Ryan Buech</h1>
 <h3 align="center">A frontend developer from U.S.A.</h3>
-<img align="right" src="https://github.com/user-attachments/assets/d0c21a13-8074-420c-8c03-5505bab58716" width="500px"
+<img align="right" src="https://github.com/user-attachments/assets/d0c21a13-8074-420c-8c03-5505bab58716" width="400px"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanbuech&label=Profile%20views&color=0e75b6&style=flat" alt="ryanbuech" /> </p>
 
